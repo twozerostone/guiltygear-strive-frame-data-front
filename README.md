@@ -1,6 +1,6 @@
 # 길티기어 프레임데이터 어플리케이션
 
-Flutter + DjangoREST Toy Project
+Flutter(WEB / Android) + DRF Toy Project
 
 ## 유의사항
 
@@ -8,6 +8,8 @@ Flutter + DjangoREST Toy Project
 - Flutter unittest
 - Widget 재사용
 - Widget 형식의 통일
+- RESTful
+- 이후 개발하면서 추가
 
 ## 개요
 
